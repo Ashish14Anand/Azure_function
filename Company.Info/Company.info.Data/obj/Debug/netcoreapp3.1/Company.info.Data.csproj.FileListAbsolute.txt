@@ -1,0 +1,13 @@
+D:\Ravish-WebApi\Company.Info\Company.info.Data\bin\Debug\netcoreapp3.1\Company.info.Data.deps.json
+D:\Ravish-WebApi\Company.Info\Company.info.Data\bin\Debug\netcoreapp3.1\Company.info.Data.dll
+D:\Ravish-WebApi\Company.Info\Company.info.Data\bin\Debug\netcoreapp3.1\Company.info.Data.pdb
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.AssemblyInfoInputs.cache
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.AssemblyInfo.cs
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.csproj.CoreCompileInputs.cache
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.dll
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.pdb
+D:\Ravish-WebApi\Company.Info\Company.info.Data\bin\Debug\netcoreapp3.1\Company.info.Data.runtimeconfig.json
+D:\Ravish-WebApi\Company.Info\Company.info.Data\bin\Debug\netcoreapp3.1\Company.info.Data.runtimeconfig.dev.json
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.genruntimeconfig.cache
+D:\Ravish-WebApi\Company.Info\Company.info.Data\obj\Debug\netcoreapp3.1\Company.info.Data.csproj.AssemblyReference.cache
